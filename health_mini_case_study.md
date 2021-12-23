@@ -1,6 +1,6 @@
 ### Cleaned code and answered questions:
 
-([Buggy code](#code-needing-cleaning) for reference)
+([buggy code](#code-needing-cleaning) for reference)
 
 <br/>
 
@@ -193,6 +193,8 @@ WHERE measure = 'blood_pressure'
 <br/>
 
 ### Code needing cleaning:
+(back up to [clean code](#cleaned-code-and-answered-questions))
+
 ```sql
 -- 1. How many unique users exist in the logs dataset?
 SELECT
